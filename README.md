@@ -1,7 +1,11 @@
-### Hi there 👋
+|    M    |            | X   |
+| ------------- |:-------------:| -----:|
+|       | ![Kiage](./img/logo.png "Kiage Logo")      |    |
+| U |   S    |  A  |
+
 
 <!--
-**mixi-c-mx/mixi-c-mx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**teamkiage/teamkiage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +17,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+```diff
+- text in red
++ text in green
+! Want to hear a coll idea for a game...?
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 -->
